@@ -33,15 +33,3 @@ social network
 	fb,twitter,linkin	 
 
 merchant portal 
-
-
-\\\\\\\\\\Need
-
-1)logo
-2)Name
-3)Policies
-4)Terms and Conditions
-5)Bussiness Plan
-6)Payment Service
-7)icons 
-8)wishlist
